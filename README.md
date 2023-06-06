@@ -1,0 +1,59 @@
+<h1 align="center"> Software Testing </h1>
+
+<p align="center">
+  Técnicas e fundamentos de Testes de Software
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
+
+# Full Cycle Studies
+
+Repository responsible for studies related to the Full Cycle course.
+
+## 🚀 Resources Used
+
+- ✅ **[TypeScript](https://www.typescriptlang.org/download)**
+- ✅ **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Node.js](https://nodejs.org/en/)**
+- ✅ **[Postman](https://www.getpostman.com/)**
+- ✅ **[Extensão Visual Studio Code - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
+
+## ✏️ Studies 
+
+<details><summary><b>Módulo 1:Fundamentos do Teste</b></summary>
+
+**[Module 01 - O que é teste](./02-module/README.md)**
+  
+  O teste de software é a atividade que busca a qualidade do software, identificar o defeito, reduzir o risco de falha de doftware e operação garantindo a sua qualidade e confiabilidade 
+  
+
+  - Começando do Zero
+  - Código fonte
+  - Iniciando com Docker
+  - Trabalhando com Imagens
+  - Networks
+  - Colocando em prática
+  - Otimizando imagens
+  - Docker-compose
+  - Desafio
+</details>
+
+<details><summary><b>Capitulo 2: Teste durante o ciclo de vida de desenvolvimento de software</b></summary>
+</details>
+
+<details><summary><b>Capitulo 3: Teste estático</b></summary>
+</details>
+
+<details><summary><b>Capitulo 4: Tácnicas de teste</b></summary>
+</details>
+
+<details><summary><b>Capitulo 5: Gerenciamento de teste</b></summary>
+</details>
+
+<details><summary><b>Capitulo 6: DDD: Ferramenta de suporte ao teste</b></summary>
+</details>
+
+<details><summary><b>Capitulo 7: </b></summary>
+</details>
