@@ -8,19 +8,19 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
-# Full Cycle Studies
+# Teste de Software
 
-Repository responsible for studies related to the Full Cycle course.
+Repositório responsável pelos estudos relacionados ao fundamento de testes.
 
-## 🚀 Resources Used
+## 🚀 Recursos usuados 
 
-- ✅ **[TypeScript](https://www.typescriptlang.org/download)**
-- ✅ **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
-- ✅ **[Node.js](https://nodejs.org/en/)**
-- ✅ **[Postman](https://www.getpostman.com/)**
-- ✅ **[Extensão Visual Studio Code - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[****](https://www.typescriptlang.org/download)**
+- ✅ **[*****](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[*****](https://nodejs.org/en/)**
+- ✅ **[******](https://www.getpostman.com/)**
+- ✅ **[*******](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
 
-## ✏️ Studies 
+## ✏️ Conteúdos
 
 <details><summary><b>Módulo 1:Fundamentos do Teste</b></summary>
 
