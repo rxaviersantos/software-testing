@@ -29,15 +29,15 @@ Repositório responsável pelos estudos relacionados ao fundamento de testes.
   O teste de software é a atividade que busca a qualidade do software, identificar o defeito, reduzir o risco de falha de doftware e operação garantindo a sua qualidade e confiabilidade 
   
 
-  - Começando do Zero
-  - Código fonte
-  - Iniciando com Docker
-  - Trabalhando com Imagens
-  - Networks
-  - Colocando em prática
-  - Otimizando imagens
-  - Docker-compose
-  - Desafio
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  -
 </details>
 
 <details><summary><b>Capitulo 2: Teste durante o ciclo de vida de desenvolvimento de software</b></summary>
