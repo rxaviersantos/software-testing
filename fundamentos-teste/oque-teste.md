@@ -14,30 +14,30 @@ O teste dinâmico é a execução de um componente ou sistema, que é executado 
 > Teste de Componente: 
 
 O teste de componente é focado na verificação individual de cada componente do sistema. 
- 
+```` 
 Exemplo  
 - Teste de unidade 
-
+````
 > Teste de Integração: 
 
 Teste de dois ou mais componentes do sistema (integração pequena) e integração de sistemas (integração grande).
-
+````
 Exemplo
 - Teste de API 
-
+````
 > Teste de Sistema 
 
 Verifica o sistema como um todo atendendo os requisitos especificados.
-
+````
 Exemplo 
 
 - Teste de sistema camada de usuário, mobile, desktop etc...
-
+````
 > Teste de Aceitação 
 
 Verifica se o sistema está pronto para ser entregue ao cliente ou usuário final.
-
+````
 Exemplo 
 
 - Teste usuário ou cliente que homologa o software.
-
+````
