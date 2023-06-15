@@ -61,10 +61,11 @@ Na revisão de testes estáticos, há um processo ou técnica que é executada p
 
 A revisão é de quatro tipos:
 
-Informal: Na revisão informal, o criador dos documentos coloca o conteúdo na frente do público e todos dão sua opinião e, portanto, os defeitos são identificados no estágio inicial.
+> - Informal: Na revisão informal, o criador dos documentos coloca o conteúdo na frente do público e todos dão sua opinião e, portanto, os defeitos são identificados no estágio inicial.
 
-Passo a passo: É basicamente realizado por uma pessoa ou especialista experiente para verificar os defeitos, para que não haja mais problemas na fase de desenvolvimento ou teste.
+> - Passo a passo: É basicamente realizado por uma pessoa ou especialista experiente para verificar os defeitos, para que não haja mais problemas na fase de desenvolvimento ou teste.
 
-Revisão por pares: Revisão por pares significa verificar documentos um do outro para detectar e corrigir os defeitos. É basicamente feito em uma equipe de colegas.
+> - Revisão por pares: Revisão por pares significa verificar documentos um do outro para detectar e corrigir os defeitos. É basicamente feito em uma equipe de colegas.
 
-Inspeção: A inspeção é basicamente a verificação do documento, a autoridade superior, como a verificação das especificações de requisitos de software ( SRS ).
+> - Inspeção: A inspeção é basicamente a verificação do documento, a autoridade superior, como a verificação das especificações de requisitos de software ( SRS ).
+
