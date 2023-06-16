@@ -16,8 +16,10 @@
   <img alt="License" src="https://github.com/rxaviersantos/software-testing/assets/85380530/56791bec-3581-49e2-8358-47d932751fed">
 </p>
 
+### Abaixo segue a comparação detalhada
+
 | Teste estático | Teste dinâmico | 
-| :---           |    :----:   |        
+|    :----:      |    :----:   |        
 | É realizado no estágio inicial do desenvolvimento do software.     | É realizado na fase posterior do desenvolvimento do software.     |
 | No teste estático, o código inteiro não é executado.  | Nos testes dinâmicos, o código inteiro é executado.      | 
 | O teste estático evita os defeitos.   | Testes dinâmicos encontram e corrigem os defeitos.       | 
