@@ -21,41 +21,40 @@ O uso de técnicas de teste pode-se reduzir esses problemas de entregas, conform
 
 - Ter testadores para verificar e validar o software.
 
-
-## Garantia da qualidade e teste
+ ## Garantia da qualidade e teste
 
 A gestão da qualidade inclui todas as atividades que direcionam e controlam uma organização em relação a qualidade. 
 
-- Garantir um produto mais estável, melhorar processo, mudança de ferramentas etc...
+> - Garantir um produto mais estável, melhorar processo, mudança de ferramentas etc...
 
-- Focada na adesão a processos adequados. 
+> - Focada na adesão a processos adequados. 
 
-- Quando os processos são realizados adequadamente, contribui para a prevenção de defeitos. 
+> - Quando os processos são realizados adequadamente, contribui para a prevenção de defeitos. 
 
-- Analise de causa raiz para detectar e remover as causas de defeitos.
-
+> - Analise de causa raiz para detectar e remover as causas de defeitos.
 
 ## Erros, defeitos e falhas
 
 Um erro leva a um defeito que pode virar uma falha. 
-
 Erros podem ocorrer por vários motivos, como: 
 
-```` 
-Pressão huma;
-Falha humana;
-Participante do projeto inexperientes;
-Falta de comunicação; 
-Complexidade do código;
-Mal-entendidos sobre interfaces;
-Tecnologias novas.
+``` 
+- Pressão huma;
+- Falha humana;
+- Participante do projeto inexperientes;
+- Falta de comunicação; 
+- Complexidade do código;
+- Mal-entendidos sobre interfaces;
+- Tecnologias novas.
 ```
+
+
 
 Podem ocorrer testes falso negativos e falso positivo: 
 
-Falso negativo: São testes que não detectam defeitos que deveriam ser detectados.
+* - Falso negativo: São testes que não detectam defeitos que deveriam ser detectados.
 
-Falso positivo: São relatados como defeitos, mas na verdade não são defeitos.
+* - Falso positivo: São relatados como defeitos, mas na verdade não são defeitos.
 
 ## Defeitos, causas-raiz e efeitos
 
