@@ -65,22 +65,77 @@ Implementação dos componentes (código, metadados, banco de dados e intefaces)
 
 Avalia a base de teste para identificar defeitos, como:
 
-Ambiguidades;
-Omissöes;
-Inconsistências;
-Imprecisöes;
-Contradições;
-Declarações supéfluas.
+* Ambiguidades;
+* Omissöes;
+* Inconsistências;
+* Imprecisöes;
+* Contradições;
+* Declarações supéfluas.
 
 Identifica recursos a serem testados.
 Define e prioriza as condições de teste para cada recurso.
 Captura a rastreabilidade bidirecional entre a base de teste e condiçöes de teste.
 
-  A aplicaçao de técnicas de teste caixa-preta. caixa-branca e experiência pode ser útil no processo de análise do teste para reduzir a probabilidade de omitir as condições importantes de teste e definir as condições de teste mais corretas e precisas.
+A aplicaçao de técnicas de teste caixa-preta. caixa-branca e experiência pode ser útil no processo de análise do teste para reduzir a probabilidade de omitir as condições importantes de teste e definir as condições de teste mais corretas e precisas.
 
 
 A identificação dos defeitos durante a análise do teste é um benefício importante, especialmente quando nenhum outro processo de revisäo está sendo usado.
 
 Essas atividades de análise do teste não apenas verificam se os requisitos são consistentes, expressos adequadamente e completos, mas também validam se os requisitos capturam adequadamente as necessidades do cliente, do usuário e stakeholders.
 
+### Modelagem do teste 
 
+Determina "Como testar".
+
+Durante a modelagem de teste, as condições de teste são elaboradas em casos de teste de alto nível. 
+
+A modelagem de teste inclui as seguintes atividades principais: 
+
+> - Projetar e priorizar casos de teste e conjuntos de casos de teste;
+> - Identificar os dados de teste necessários para comportar as condições de teste e os casos de teste;
+> - Projetar o ambiente de teste e identificar qualquer infraestrutura e ferramenta necessária;
+> - Capturar a rastreabilidade bidirecional entre a base de teste, as condições de teste, os casos de teste e os procedimentos de teste.
+
+A elaboradas condições de teste em casos de teste durante a modelagem do teste envolve muitas vezes o uso de técnicas de teste. 
+
+A identificação dos defeitos durante a modelagem do teste também é um benefício importante. 
+
+### Implementação do teste 
+
+Temos tudo para executar os testes?
+
+A implementação do teste inclui principalmente as seguintes atividades:
+
+> - Desenvolver e priorizar os procedimentos de teste, criar os scripts automatizados;
+> - Criar as suítes de teste a partir dos procedimentos; 
+> - Organizar um cronograma;
+> - Construir o ambiente;
+> - Preparar os dados e garantir que sejam carregados no ambiente;
+> - verificar e atualizar a rastreabilidade.
+
+Nos testes exploratórios e em outros tipos de testes baseados na experiência, a modelagem e a implementação do teste podem ocorrer e serem documentadas como parte da execução do teste.
+
+### Execução do teste 
+
+Durante a execução do teste, os conjuntos de testes são executados de acordo com a programação da execução do teste.
+
+A execução do teste inclui principalmente as seguintes atividades:
+
+> - Gravar os identificadores e versões do teste ou do objeto de teste;
+> - Executar os testes manualmente ou usando ferramentas de execução do teste;
+> - Comparar resultados reais com os esperados;
+> - Analisar anomalias para estabelecer prováveis causas; 
+> - Comunicar os defeitos;
+> - Registrar o resultado da execução do teste (p. ex., passar, falhar, bloquear);
+
+### Conclusão do teste 
+
+Coletam os dados das atividades de teste já concluídas para consolidar a experiência, o testeware e qualquer outra informação relevante. 
+A conclusão do teste inclui principalmente as seguintes atividades:
+
+> * Verificar se todos os defeitos estão fechados;
+> * Criar um relatório de resumo de teste para ser comunicado aos stakeholders;
+> * Finalizar e arquivar o ambiente de teste, os dados de teste, a infraestrutura de teste e outros testwares para posterior reutilização;
+> * Entregar o testware para as equipes de manutenção, outras equipes de projeto ou stakeholders que poderiam se beneficiar de seu uso;
+> * Analisar as lições aprendidas das atividades de teste concluídas; 
+> * Usar as informações coletadas para melhorar a maturidade do processo do teste. 
