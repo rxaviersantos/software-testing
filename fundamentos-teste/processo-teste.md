@@ -138,4 +138,21 @@ A conclusão do teste inclui principalmente as seguintes atividades:
 > * Finalizar e arquivar o ambiente de teste, os dados de teste, a infraestrutura de teste e outros testwares para posterior reutilização;
 > * Entregar o testware para as equipes de manutenção, outras equipes de projeto ou stakeholders que poderiam se beneficiar de seu uso;
 > * Analisar as lições aprendidas das atividades de teste concluídas; 
-> * Usar as informações coletadas para melhorar a maturidade do processo do teste. 
+> * Usar as informações coletadas para melhorar a maturidade do processo do teste.
+
+### Prodtos de trabalho do teste
+
+Produtos de trabalho são os entregáveis de cada atividade de teste, são elas:
+
+> - Produtos de trabalho do planejamento do teste;
+> - Produtos de trabalho de monitoramento e controle do teste;
+> - Produtos de trabalho da análise do teste; 
+> - Produtos de trabalho da modelegem do teste;
+> - Produtos de trabalho da implementação do teste;
+> - Produtos de trabalho da execução do teste;
+> - Produtos de trabalho de conclusão do teste 
+
+
+
+### Rastreabilidade entre a base de teste e os produtos de
+trabalho de teste
