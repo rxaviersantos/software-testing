@@ -142,12 +142,23 @@ A conclusão do teste inclui principalmente as seguintes atividades:
 
 ### Prodtos de trabalho do teste
 
-Produtos de trabalho são os entregáveis de cada atividade de teste, são elas:
+Produtos de trabalho do teste são os entregáveis de cada atividade de teste.
 
-> - Produtos de trabalho do planejamento do teste;
-> - Produtos de trabalho de monitoramento e controle do teste;
-> - Produtos de trabalho da análise do teste; 
-> - Produtos de trabalho da modelegem do teste;
+Produtos de trabalho do planejamento do teste;
+- *Planos de teste*
+  
+Produtos de trabalho de monitoramento e controle do teste;
+- *Relatórios de progresso /  resumo / conclusão*
+- *Relatórios de defeitos*
+- *Relatórios de risco, alocação, recursos e esforço*
+
+Produtos de trabalho da análise do teste; 
+- *Condições de teste definidas e priorizadas*
+- *Defeitos na base de teste*
+
+Produtos de trabalho da modelegem do teste;
+- *Casos de teste de alto nível, derivados das condições identificadas na análise*
+  
 > - Produtos de trabalho da implementação do teste;
 > - Produtos de trabalho da execução do teste;
 > - Produtos de trabalho de conclusão do teste 
