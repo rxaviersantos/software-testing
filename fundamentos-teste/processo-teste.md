@@ -142,28 +142,52 @@ A conclusão do teste inclui principalmente as seguintes atividades:
 
 ### Prodtos de trabalho do teste
 
-Produtos de trabalho do teste são os entregáveis de cada atividade de teste.
+Produtos de trabalho do teste são os entregáveis de cada atividade de teste, são eles:
 
-Produtos de trabalho do planejamento do teste;
+Produtos de trabalho do planejamento do teste:
+
 - *Planos de teste*
   
-Produtos de trabalho de monitoramento e controle do teste;
+Produtos de trabalho de monitoramento e controle do teste:
+
 - *Relatórios de progresso /  resumo / conclusão*
 - *Relatórios de defeitos*
 - *Relatórios de risco, alocação, recursos e esforço*
 
-Produtos de trabalho da análise do teste; 
+Produtos de trabalho da análise do teste:
+
 - *Condições de teste definidas e priorizadas*
 - *Defeitos na base de teste*
 
-Produtos de trabalho da modelegem do teste;
-- *Casos de teste de alto nível, derivados das condições identificadas na análise*
+Produtos de trabalho da modelegem do teste:
+
+- *Casos de teste de alto nível, derivados das condições identificadas na análise;*
+- *Identificações identificadas na análise.*
   
-> - Produtos de trabalho da implementação do teste;
-> - Produtos de trabalho da execução do teste;
-> - Produtos de trabalho de conclusão do teste 
+Produtos de trabalho da implementação do teste:
+
+- *Procedimentos de teste (passo a passo/detalhamento);*
+- *Suíte de teste;*
+- *Cronograma de execução;*
+
+Produtos de trabalho da execução do teste:
+
+- *Status dos casos de teste;*
+- *Relatórios de defeitos;*
+- *Documentação de quais itens estavam envolvidos no teste;* 
 
 
+Produtos de trabalho de conclusão do teste 
 
-### Rastreabilidade entre a base de teste e os produtos de
-trabalho de teste
+- *Relatórios de teste;* 
+- *Planos de ação para melhoria dos próximos projetos.*
+
+
+### Rastreabilidade entre a base de teste e os produtos de trabalho de teste
+
+- *Analisar o impacto das mudanças;*
+- *Tornar o teste auditável;*
+- *Atender aos critérios de governança de TI;*
+- *Melhorar a compreensibilidade dos relatórios de progresso do teste;*
+- *Relacionar os aspectos técnicos do teste com os stakeholders em termos que eles possam atender;*
+- *Fornecer informações para avaliar a qualidade do produto, a capacidade do processo e o progresso do projeto em relação às metas de negócios.*
