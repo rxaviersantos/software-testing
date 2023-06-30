@@ -20,6 +20,11 @@ Modelos mais comuns
 
 Exemplo: modelo cascata e modelo V
 
+![cascata](https://github.com/rxaviersantos/software-testing/assets/85380530/5089b836-72a6-4589-b16c-77c3e5ca2bc2)
+
+![800px-V-model-en](https://github.com/rxaviersantos/software-testing/assets/85380530/5ab4b638-ae17-4a10-a9dc-a6fc4ffb8659)
+
+
 
 ### Modelos interativos e incrementais 
 
