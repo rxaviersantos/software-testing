@@ -77,21 +77,49 @@ Objetos de teste típicos para testes de componentes incluem:
 
 Exemplos de defeitos e falhas típicas para o teste de componentes incluem:
 
-• Funcionalidade incorreta (p. ex., não conformidade descrita nas especificações do projeto);
-• Problemas no fluxo de dados;
-• Código e lógica incorretos.
+> • Funcionalidade incorreta (p. ex., não conformidade descrita nas especificações do projeto);
+> 
+> • Problemas no fluxo de dados;
+> 
+> • Código e lógica incorretos.
 
 Os defeitos geralmente são corrigidos assim que são encontrados, geralmente sem gerenciamento formal dos defeitos. No entanto, quando os desenvolvedores relatam defeitos, isso fornece informações importantes para análise de causa raiz e melhoria de processo.
 
-Abordagens e responsabilidades específicas
+### Abordagens e responsabilidades específicas
 
 O teste de componente geralmente é executado pelo desenvolvedor que escreveu o código, mas obrigatoriamente requer acesso ao código que está sendo testado. Os desenvolvedores podem alternar o desenvolvimento de componentes com a localização e correção de defeitos. Os desenvolvedores geralmente escrevem e executam testes depois de codificarem um componente.
 
 No entanto, especialmente no desenvolvimento ágil, escrever os casos de teste de componentes automatizados pode preceder a gravação do código do aplicativo.
 
-Por exemplo, considere o desenvolvimento orientado por teste (TDD). Esse desenvolvimento é
-altamente iterativo e baseado em ciclos de desenvolvimento de casos de teste automatizados, em
-seguida, na criação e integração de pequenos trechos de código, executando os testes de
-componentes, corrigindo quaisquer problemas e regerando o código. Esse processo continua até
-que o componente tenha sido completamente construído e todos os testes de componentes tenham
-passado. O desenvolvimento orientado por teste é um exemplo de uma abordagem de teste inicial. 
+Por exemplo, considere o desenvolvimento orientado por teste (TDD). Esse desenvolvimento é altamente iterativo e baseado em ciclos de desenvolvimento de casos de teste automatizados, em seguida, na criação e integração de pequenos trechos de código, executando os testes de componentes, corrigindo quaisquer problemas e regerando o código. Esse processo continua até que o componente tenha sido completamente construído e todos os testes de componentes tenham passado. O desenvolvimento orientado por teste é um exemplo de uma abordagem de teste inicial. 
+
+
+## Teste de integração
+
+Objetivos do teste de integração
+
+O teste de integração se concentra nas interações entre componentes ou sistemas. Os objetivos do teste de integração incluem:
+
+> • Reduzir risco;
+> 
+> • Verificar se os comportamentos funcionais e não-funcionais das interfaces estão projetados e especificados;
+> 
+> • Construir confiança na qualidade das interfaces;
+> 
+> • Encontrar defeitos (que podem estar nas próprias interfaces ou nos componentes ou sistemas);
+> 
+> • Evitar que os defeitos espalhem para níveis mais altos de teste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
