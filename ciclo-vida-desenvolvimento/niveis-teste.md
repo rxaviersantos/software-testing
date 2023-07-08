@@ -111,12 +111,72 @@ O teste de integração se concentra nas interações entre componentes ou siste
 > • Evitar que os defeitos espalhem para níveis mais altos de teste.
 
 
+Assim como no teste de componentes, em alguns casos, o teste de regressão de integração automatizada garante que as alterações não interromperam as interfaces, os componentes ou sistemas existentes.
 
+Existem dois níveis diferentes de teste de integração, que podem ser realizados em objetos de teste de tamanho variável, como segue:
 
+> - O teste de integração de componentes foca nas interações e interfaces entre componentes integrados. O teste de integração de componentes é executado após o teste do componente e geralmente é automatizado. No desenvolvimento iterativo e incremental, os testes de integração de componentes geralmente fazem parte do processo de integração contínua;
+>
+> - O teste de integração do sistema concentra-se nas interações e interfaces entre sistemas, pacotes e micro serviços. O teste de integração do sistema também pode abranger interações e interfaces fornecidas por entidades externas (p. ex., serviços da Web). Nesse caso, a entidade em desenvolvimento não controla as interfaces externas, o que pode criar vários desafios para testes (p. ex., garantir que os defeitos de bloqueio de teste no código da organização externa sejam resolvidos, organizar ambientes de teste etc.). O teste de integração do sistema pode ser feito após o teste do sistema ou em paralelo com as atividades de teste do sistema em andamento (tanto no desenvolvimento sequencial quanto no desenvolvimento iterativo e incremental).
 
+Base de teste
 
+Produtos de trabalho que podem ser usados como base de teste para testes de integração incluem:
+```
+• Software e modelagem do sistema;
+• Diagramas de sequência;
+• Especificações de interface e protocolo de comunicação;
+• Casos de uso;
+• Arquitetura no nível de componente ou sistema;
+• Fluxos de trabalho;
+• Definições de interface externa.
+```
 
+Objetos de teste
 
+Objetos de teste típicos para testes de integração incluem:
+```
+• Subsistemas;
+• Bancos de dados;
+• Infraestrutura;
+• Interfaces;
+• APIs;
+• Micro serviços.
+```
+
+Defeitos típicos e falhas
+
+Defeitos e falhas típicos para testes de integração de componentes incluem:
+
+> • Dados incorretos, dados ausentes ou codificação de dados incorreta;
+> 
+> • Sequenciamento ou temporização incorretos de chamadas de interface;
+> 
+> • Incompatibilidade de interface;
+> 
+> • Falhas na comunicação entre componentes;
+> 
+> • Falha de comunicação não manipulada ou tratada de forma errada entre componentes;
+> 
+> • Suposições incorretas sobre o significado, as unidades ou limites dos dados que estão sendo
+transmitidos entre os componentes.
+
+Os exemplos de defeitos e falhas típicos para testes de integração de sistemas incluem:
+
+> • Estruturas de mensagens inconsistentes entre sistemas;
+> 
+> • Dados incorretos, dados ausentes ou codificação de dados incorreta;
+> 
+> • Incompatibilidade de interface;
+> 
+> • Falhas na comunicação entre sistemas;
+> 
+> • Falha de comunicação não manipulada ou tratada de forma errada entre sistemas;
+> 
+> • Suposições incorretas sobre o significado, unidades ou limites dos dados que estão sendo
+transmitidos entre sistemas;
+> 
+> • Falha no cumprimento dos regulamentos de segurança obrigatórios.
 
 
 
