@@ -178,6 +178,21 @@ transmitidos entre sistemas;
 > 
 > • Falha no cumprimento dos regulamentos de segurança obrigatórios.
 
+### Abordagens e responsabilidades específicas
+
+Os testes de integração de componentes e os testes de integração de sistemas devem se concentrar na própria integração. Por exemplo, se integrar o módulo A com o módulo B, os testes devem focar na comunicação entre ambos e não na funcionalidade dos módulos individualmente, como deveria ter sido coberto durante o teste de componentes. Se integrar o sistema X ao sistema Y, os testes devem focar na comunicação entre os sistemas, não na funcionalidade dos sistemas individualmente, como isso deveria ter sido coberto durante o teste do sistema. Tipos de testes funcionais, não-funcionais e estruturais são aplicáveis.
+
+O teste de integração de componentes geralmente é de responsabilidade dos desenvolvedores, e o teste de integração do sistema geralmente é de responsabilidade dos testadores. No formato ideal, os testadores que realizam o teste de integração do sistema devem entender da arquitetura do sistema e devem ter influenciado no planejamento da integração.
+
+Se os testes de integração e a estratégia de integração forem planejados antes de componentes ou sistemas serem construídos, esses componentes ou sistemas podem ser construídos na ordem exigida para a maioria dos testes eficientes.
+
+Quanto maior o escopo da integração, mais difícil se torna isolar os defeitos em um componente ou sistema específico, o que pode levar a um aumento do risco e a um tempo adicional para a solução de problemas. Esse é um dos motivos pelos quais a integração contínua, onde o software é integrado componente por componente (ou seja, integração funcional), tornou-se prática comum. Essa integração contínua geralmente inclui testes de regressão automatizados, preferencialmente em vários níveis de teste
+
+
+
+
+
+
 
 
 
