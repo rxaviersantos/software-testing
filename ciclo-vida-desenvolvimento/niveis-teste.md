@@ -186,7 +186,56 @@ O teste de integração de componentes geralmente é de responsabilidade dos des
 
 Se os testes de integração e a estratégia de integração forem planejados antes de componentes ou sistemas serem construídos, esses componentes ou sistemas podem ser construídos na ordem exigida para a maioria dos testes eficientes.
 
-Quanto maior o escopo da integração, mais difícil se torna isolar os defeitos em um componente ou sistema específico, o que pode levar a um aumento do risco e a um tempo adicional para a solução de problemas. Esse é um dos motivos pelos quais a integração contínua, onde o software é integrado componente por componente (ou seja, integração funcional), tornou-se prática comum. Essa integração contínua geralmente inclui testes de regressão automatizados, preferencialmente em vários níveis de teste
+Quanto maior o escopo da integração, mais difícil se torna isolar os defeitos em um componente ou sistema específico, o que pode levar a um aumento do risco e a um tempo adicional para a solução de problemas. Esse é um dos motivos pelos quais a integração contínua, onde o software é integrado componente por componente (ou seja, integração funcional), tornou-se prática comum. Essa integração contínua geralmente inclui testes de regressão automatizados, preferencialmente em vários níveis de teste.
+
+
+## Teste de sistema
+
+Objetivos do teste de sistema
+
+O teste de sistema se concentra no comportamento e nas capacidades de todo um sistema ou produto, geralmente considerando as execuções das tarefas de ponta a ponta do sistema e os comportamentos não-funcionais exibidos ao executar tais tarefas. 
+
+Os objetivos do teste do sistema incluem:
+```
+•  Reduzir o risco;
+
+• Verificar se os comportamentos funcionais e não-funcionais do sistema estão como projetados e especificados;
+
+• Validar se o sistema está completo e funcionará como esperado;
+
+• Criar confiança na qualidade do sistema como um todo;
+
+• Encontrar defeitos;
+
+• Evitar que os defeitos espalhem para níveis mais altos de teste ou produção
+```
+
+
+Para determinados sistemas, a verificação da qualidade dos dados pode ser um objetivo. Assim como no teste de componente e no teste de integração, e em alguns casos os testes automatizados de regressão do sistema fornecem a confiabilidade de que as alterações não quebraram os recursos existentes ou a execução dos recursos de ponta a ponta.
+
+O teste do sistema geralmente produz informações que são usadas pelos stakeholders para tomar decisões de liberação. O teste do sistema também pode satisfazer requisitos ou padrões legais e regulatórios. O ambiente de teste deve preferencialmente corresponder ao seu destino, ou ao ambiente de produção.
+
+Base de teste
+
+Produtos de trabalho que podem ser usados como base de teste para teste de sistema incluem:
+```
+• Especificações de requisitos de sistema e software (funcionais e não-funcionais);
+
+• Relatórios de análise de risco;
+
+• Casos de uso;
+
+• Épicos e histórias de usuários;
+
+• Modelos de comportamento do sistema;
+
+• Diagramas de estado;
+
+• Sistema e manuais do usuário;
+```
+
+
+
 
 
 
