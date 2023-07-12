@@ -1,10 +1,15 @@
 # Níveis de teste 
 
 Os níveis de teste são grupos de atividades de teste que são organizados e gerenciados juntos. Cada
-nível de teste é uma instância do processo de teste, consistindo nas atividades descritas, executadas em relação ao software em um determinado nível de desenvolvimento, desde as
-unidades individuais ou componentes até os sistemas completos ou, quando aplicável, em sistemas
-de sistemas. Os níveis de teste estão relacionados com outras atividades dentro do ciclo de vida de
-desenvolvimento de software. Os níveis de teste usados neste documento são:
+nível de teste é uma instância do processo de teste, consistindo nas atividades descritas, executadas em relação ao software em um determinado nível de desenvolvimento, desde as unidades individuais ou componentes até os sistemas completos ou, quando aplicável, em sistemas de sistemas. Os níveis de teste estão relacionados com outras atividades dentro do ciclo de vida de desenvolvimento de software. 
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/10e79048-3725-46cc-aff1-1255708fa5e9" "height="400px" width="600px">
+</p>
+
+
+
+Os níveis de teste usados neste documento são:
 
 ```
 • Teste de componentes;
@@ -50,6 +55,11 @@ não impactaram os componentes existentes.
 
 O teste de componente geralmente é realizado isoladamente do resto do sistema, dependendo do modelo de ciclo de vida de desenvolvimento de software e de sistema, que pode exigir objetos simulados, virtualização de serviços, estrutura, simuladores e controladores. O teste de componente pode cobrir funcionalidade (p. ex., correção de cálculos), características não-funcionais (p. ex., busca
 de vazamentos de memória) e propriedades estruturais (p. ex., teste de decisão).
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/e1ad9682-b0f5-4223-98d5-0fcc8f753849" "height="400px" width="600px">
+</p>
+
 
 ### Base de teste
 
@@ -118,6 +128,13 @@ Existem dois níveis diferentes de teste de integração, que podem ser realizad
 > - O teste de integração de componentes foca nas interações e interfaces entre componentes integrados. O teste de integração de componentes é executado após o teste do componente e geralmente é automatizado. No desenvolvimento iterativo e incremental, os testes de integração de componentes geralmente fazem parte do processo de integração contínua;
 >
 > - O teste de integração do sistema concentra-se nas interações e interfaces entre sistemas, pacotes e micro serviços. O teste de integração do sistema também pode abranger interações e interfaces fornecidas por entidades externas (p. ex., serviços da Web). Nesse caso, a entidade em desenvolvimento não controla as interfaces externas, o que pode criar vários desafios para testes (p. ex., garantir que os defeitos de bloqueio de teste no código da organização externa sejam resolvidos, organizar ambientes de teste etc.). O teste de integração do sistema pode ser feito após o teste do sistema ou em paralelo com as atividades de teste do sistema em andamento (tanto no desenvolvimento sequencial quanto no desenvolvimento iterativo e incremental).
+
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/31a5bfe7-e552-4d25-895e-a3a9b8984ce4" "height="400px" width="600px">
+</p>
+
+
 
 Base de teste
 
@@ -214,6 +231,11 @@ Os objetivos do teste do sistema incluem:
 Para determinados sistemas, a verificação da qualidade dos dados pode ser um objetivo. Assim como no teste de componente e no teste de integração, e em alguns casos os testes automatizados de regressão do sistema fornecem a confiabilidade de que as alterações não quebraram os recursos existentes ou a execução dos recursos de ponta a ponta.
 
 O teste do sistema geralmente produz informações que são usadas pelos stakeholders para tomar decisões de liberação. O teste do sistema também pode satisfazer requisitos ou padrões legais e regulatórios. O ambiente de teste deve preferencialmente corresponder ao seu destino, ou ao ambiente de produção.
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/2b8813c8-f8f5-49fd-bd9a-4b2a29472acd" "height="400px" width="600px">
+</p>
+
 
 Base de teste
 
