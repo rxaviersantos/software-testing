@@ -256,6 +256,43 @@ Produtos de trabalho que podem ser usados como base de teste para teste de siste
 • Sistema e manuais do usuário;
 ```
 
+Objetos de teste
+
+Os objetos de teste típicos para teste de sistema incluem:
+```
+• Aplicações;
+
+• Sistemas de hardware e software;
+
+• Sistemas operacionais;
+
+• Sistema sob teste (SUT);
+
+• Configuração do sistema e dados de configuração.
+
+```
+
+Defeitos típicos e falhas
+
+Os defeitos e falhas típicas para o teste de sistema incluem:
+```
+• Cálculos incorretos;
+
+• Comportamento funcional ou não funcional do sistema incorreto ou inesperado;
+
+• Controle e/ou fluxos de dados dentro do sistema incorretos;
+
+• Falha na execução correta e completa de tarefas funcionais de ponta a ponta;
+
+• Falha do sistema em funcionar adequadamente no(s) ambiente(s) de produção;
+
+• Falha do sistema para funcionar conforme descrito nos manuais do sistema e do usuário.
+```
+Abordagens e responsabilidades específicas
+
+O teste de sistema deve focar no comportamento geral, funcional ou não, de ponta a ponta do sistema como um todo. O teste de sistema deve usar as técnicas mais apropriadas do sistema a ser testado. Testadores independentes geralmente realizam testes no sistema. Defeitos nas especificações podem levar a uma falta de compreensão ou desacordo sobre o comportamento esperado do sistema. Tais situações podem causar falsos positivos e falsos negativos, que perdem tempo e reduzem a eficácia da detecção de defeitos, respectivamente. 
+
+
 
 
 
