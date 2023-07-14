@@ -290,19 +290,58 @@ Os defeitos e falhas típicas para o teste de sistema incluem:
 ```
 Abordagens e responsabilidades específicas
 
-O teste de sistema deve focar no comportamento geral, funcional ou não, de ponta a ponta do sistema como um todo. O teste de sistema deve usar as técnicas mais apropriadas do sistema a ser testado. Testadores independentes geralmente realizam testes no sistema. Defeitos nas especificações podem levar a uma falta de compreensão ou desacordo sobre o comportamento esperado do sistema. Tais situações podem causar falsos positivos e falsos negativos, que perdem tempo e reduzem a eficácia da detecção de defeitos, respectivamente. 
+O teste de sistema deve focar no comportamento geral, funcional ou não, de ponta a ponta do sistema como um todo. O teste de sistema deve usar as técnicas mais apropriadas do sistema a ser testado. Testadores independentes geralmente realizam testes no sistema. Defeitos nas especificações podem levar a uma falta de compreensão ou desacordo sobre o comportamento esperado do sistema. Tais situações podem causar falsos positivos e falsos negativos, que perdem tempo e reduzem a eficácia da detecção de defeitos, respectivamente. O envolvimento precoce de testadores no refinamento da história do usuário ou em atividades de testes estáticos, como revisões, ajuda a reduzir a incidência de tais situações.
 
 
+### Teste de aceite
 
+O teste de aceite, como o teste do sistema, geralmente se concentra no comportamento e na capacidade de todo um sistema ou produto. 
 
+Os objetivos do teste de aceite incluem:
+```
+• Estabelecer confiança na qualidade do sistema como um todo;
 
+• Validar que o sistema está completo e funcionará como esperado;
 
+• Verificar se os comportamentos funcionais e não-funcionais do sistema são os especificados.
+```
 
+O teste de aceite pode produzir informações para avaliar a situação do sistema para implantação e uso pelo cliente (usuário final). Os defeitos podem ser encontrados durante o teste de aceite, mas encontrar defeitos muitas vezes não é um objetivo, e encontrar um número significativo de defeitos durante o teste de aceite pode, em alguns casos, ser considerado um grande risco de projeto. O teste de aceite também pode satisfazer requisitos ou padrões legais ou regulatórios.
 
+Formas comuns de testes de aceite incluem o seguinte:
+```
+• Teste de aceite do usuário;
 
+• Teste de aceite operacional;
 
+• Teste de aceite contratual e regulatório;
 
+• Alfa teste e Beta
+```
+Teste de aceite do usuário (UAT)
 
+O teste de aceite do sistema pelos usuários é tipicamente focado em validar a adequação do uso do sistema pelos usuários pretendidos em um ambiente operacional real ou simulado. O objetivo principal é desenvolver a confiança de que os usuários podem usar o sistema para atender às suas necessidades, atender aos requisitos e executar processos de negócios com o mínimo de dificuldade, custo e risco.
 
+Teste de aceite operacional
+
+O teste de aceite do sistema pelas operações ou pela equipe de administração de sistemas geralmente é realizado em um ambiente de produção (simulado).
+Os testes se concentram em aspectos operacionais e podem incluir:
+
+```
+• Teste de backup e restauração;
+
+• Instalar, desinstalar e atualizar;
+
+• Recuperação de desastres;
+
+• Gerenciamento de usuários;
+
+• tarefas de manutenção;
+
+• Carregamento de dados e tarefas de migração;
+
+• Verifica vulnerabilidades
+```
+O principal objetivo do teste de aceite operacional é criar confiança de que os operadores ou administradores do sistema possam manter o sistema funcionando adequadamente para os usuários no ambiente operacional, mesmo sob condições excepcionais ou difíceis.
 
 
