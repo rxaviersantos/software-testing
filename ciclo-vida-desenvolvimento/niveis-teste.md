@@ -344,4 +344,23 @@ Os testes se concentram em aspectos operacionais e podem incluir:
 ```
 O principal objetivo do teste de aceite operacional é criar confiança de que os operadores ou administradores do sistema possam manter o sistema funcionando adequadamente para os usuários no ambiente operacional, mesmo sob condições excepcionais ou difíceis.
 
+Teste de aceite contratual e regulatório
+
+O teste de aceite contratual é realizado com base nos critérios de aceite de um contrato para desenvolver softwares específicos. Os critérios de aceite devem ser definidos quando as partes concordam com o contrato. O teste de aceite contratual é frequentemente realizado por usuários ou por testadores independentes.
+
+O teste de aceite regulatório é realizado em relação a quaisquer regulamentos que devem ser seguidos, como governamentais, legais ou de segurança. O teste de aceite regulatório é frequentemente realizado por usuários ou por testadores independentes, às vezes com os resultados sendo testemunhados ou auditados por agências reguladoras.
+O principal objetivo do teste de aceite contratual e regulatório é a criação de confiança de que a conformidade contratual ou regulatória foi alcançada.
+
+Alfa teste e beta teste
+
+Os “alfa” e “beta” teste são normalmente usados por desenvolvedores de software comercial de prateleira (COTS) que desejam obter feedback de usuários, clientes ou operadores em potencial ou existentes antes que o produto de software seja colocado no mercado. O alfa teste é realizado no site da organização em desenvolvimento, não pela equipe de desenvolvimento, mas por clientes em potencial, existentes, operadores, ou por uma equipe de teste independente. O beta teste é realizado
+por clientes em potencial, existentes, operadores em seus próprios locais. O beta teste pode ocorrer após o alfa teste ou sem que este seja realizado.
+
+Um objetivo dos testes alfa e beta é a construção da confiança entre os clientes ou operadores de que podem usar o sistema em condições normais no dia a dia para atingir seus objetivos com o mínimo de dificuldade, custo e risco. Outro objetivo pode ser a detecção dos defeitos relacionados às condições e ambiente(s) em que o sistema será utilizado, especialmente quando essas são difíceis de replicar pela equipe de desenvolvimento. 
+
+
+
+
+
+
 
