@@ -358,9 +358,72 @@ por clientes em potencial, existentes, operadores em seus próprios locais. O be
 
 Um objetivo dos testes alfa e beta é a construção da confiança entre os clientes ou operadores de que podem usar o sistema em condições normais no dia a dia para atingir seus objetivos com o mínimo de dificuldade, custo e risco. Outro objetivo pode ser a detecção dos defeitos relacionados às condições e ambiente(s) em que o sistema será utilizado, especialmente quando essas são difíceis de replicar pela equipe de desenvolvimento. 
 
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/f0705d03-fc84-4d1e-b1ce-eaa385b3412d" "height="400px" width="600px">
+</p>
 
+Base de teste
 
+Os exemplos de produtos de trabalho que podem ser usados como base de teste para qualquer forma de teste de aceite incluem:
 
+```
+• Processos de negócios;
 
+• Requisitos do usuário ou de negócios;
+
+• Regulamentos, contratos legais e normas;
+
+• Casos de uso;
+
+• Requisitos de sistema;
+
+• Documentação do sistema ou usuário;
+
+• Procedimentos de instalação;
+
+• Relatórios de análise de risco.
+```
+
+Além disso, como base de teste para derivar casos de teste para testes de aceite operacional, um ou mais dos seguintes produtos de trabalho podem ser usados:
+
+```
+• Procedimentos de backup e restauração;
+
+• Procedimentos de recuperação de desastres;
+
+• Requisitos não-funcionais;
+
+• Documentação de operações;
+
+• Instruções de implantação e instalação;
+
+• Metas de performance;
+
+• Pacotes de banco de dados;
+
+• Normas ou regulamentos de segurança.
+```
+
+Objetos de teste típicos
+
+Os objetos de teste típicos para qualquer forma de teste de aceite incluem:
+
+```
+• Sistema sob teste;
+
+• Configuração do sistema e dados de configuração;
+
+• Processos de negócios para um sistema totalmente integrado;
+
+• Sistemas de recuperação e hot sites (para continuidade de negócios e testes de recuperação de desastres);
+
+• Processos operacionais e de manutenção;
+
+• Formulários;
+
+• Relatórios;
+
+• Dados de produção existentes e convertidos.
+```
 
 
