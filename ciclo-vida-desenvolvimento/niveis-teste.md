@@ -425,5 +425,47 @@ Os objetos de teste típicos para qualquer forma de teste de aceite incluem:
 
 • Dados de produção existentes e convertidos.
 ```
+Defeitos típicos e falhas
+
+Os exemplos de defeitos típicos para qualquer forma de teste de aceite incluem:
+```
+• Fluxos de trabalho do sistema não atendem aos requisitos do negócio ou do usuário;
+
+• Regras de negócios não são implementadas corretamente;
+
+• O sistema não satisfaz os requisitos contratuais ou regulatórios;
+
+• Falhas não-funcionais, como vulnerabilidades de segurança, eficiência de performance
+inadequada sob altas cargas ou operação inadequada em uma plataforma suportada
+```
+Abordagens e responsabilidades específicas
+
+O teste de aceite é geralmente responsabilidade dos clientes, usuários de negócios, product owners ou operadores de um sistema, além de stakeholders que também podem estar envolvidos.
+O teste de aceite é frequentemente considerado como o último nível de teste em um ciclo de vidade desenvolvimento sequencial, mas também pode ocorrer em outros momentos, por exemplo:
+
+• O teste de aceite de um produto de software de prateleira (COTS) pode ocorrer quando instalado ou integrado;
+
+• O teste de aceite de um novo aprimoramento funcional pode ocorrer antes do teste do sistema.
+
+No desenvolvimento iterativo, as equipes de projeto podem empregar várias formas de testes de aceite durante e ao final de cada iteração, como aqueles focados em verificar um novo recurso em relação aos critérios de aceite e aqueles focados em validar que um novo recurso satisfaz as necessidades dos usuários. Além disso, o alfa e beta teste podem ocorrer, no final de cada iteração, após a conclusão de cada iteração ou após uma série de iterações. Teste de aceite do usuário, testes de aceite operacional, testes de aceite regulatória e testes de aceite contratual também podem ocorrer, seja no final de cada iteração, após a conclusão de cada iteração ou após uma série de iterações.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
