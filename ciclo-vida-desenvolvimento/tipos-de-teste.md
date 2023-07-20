@@ -82,6 +82,48 @@ Os conjuntos de testes de regressão são executados muitas vezes e geralmente e
 >
 > • No teste de aceite, os testes são modelados com base em como o banqueiro manipula a aprovação ou não de um pedido de crédito
 
+Exemplos de testes não-funcionais:
+
+> •  No teste de componente, os testes de performance são modelados para avaliar o número de ciclos de CPU necessários para realizar um cálculo complexo de juros total;
+>
+> •  No teste de integração de componentes, os testes de segurança são modelados para vulnerabilidades de estouro de buffer devido aos dados transmitidos da interface do usuário para a lógica de negócios;
+>
+> • No teste de sistema, os testes de portabilidade são modelados para verificar se a camada de apresentação funciona em todos os navegadores e dispositivos móveis suportados;
+>
+> • No teste de integração de sistemas, os testes de confiabilidade são modelados para avaliar a robustez do sistema se o micro serviço de pontuação de crédito não responder;
+>
+> • No teste de aceite, os testes de usabilidade são modelados para avaliar a acessibilidade da interface de processamento de crédito do banco para pessoas com deficiências
+
+Exemplos de testes caixa-branca:
+
+> • No teste de componentes, os testes são modelados para obter uma cobertura completa de instruções e decisões (capítulo 4.3) para todos os componentes que executam cálculos financeiros;
+> 
+> • No teste de integração de componentes, os testes são modelados para exercitar como cada tela na interface do navegador passa os dados para a próxima tela e para a lógica de negócios;
+> 
+> • No teste de sistema, os testes são modelados para cobrir sequências de páginas da web que podem ocorrer durante um aplicativo de linha de crédito;
+> 
+> • No teste de integração do sistema, os testes são modelados para exercer todos os possíveis tipos de consulta enviados ao micro serviço de pontuação de crédito;
+> 
+> • No teste de aceite, os testes são modelados para cobrir todas as estruturas de arquivos de dados financeiros suportados e intervalos de valores para transferências bancárias para bancos.
+
+Exemplos de testes relacionados a mudanças:
+
+> • No teste de componentes, os testes de regressão automatizados são modelados para cada componente e incluídos na estrutura de integração contínua;
+> 
+>  • No teste de integração de componentes, os testes são modelados para confirmar as correções dos defeitos relacionados à interface, à medida que as correções são verificadas no repositório de código;
+> 
+>  • No teste do sistema, todos os testes para um determinado fluxo de trabalho são executados novamente se qualquer tela desse fluxo de trabalho for alterada;
+> 
+>  • No teste de integração do sistema, os testes do aplicativo interagindo com o micro serviço de pontuação de crédito são executados diariamente como parte da implantação contínua desse micro serviço;
+> 
+>  • No teste de aceite, todos os testes com falhas anteriores são executados novamente após a correção de um defeito encontrado no teste de aceite.
+
+Não é necessário, para todos os softwares, ter todos os tipos de testes representados em todos os níveis. No entanto, é importante executar os tipos de teste aplicáveis em cada nível, especialmente no nível mais antigo em que o tipo de teste ocorre.
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/88b9f4cc-6d4b-49fc-834b-bb8f89434853" "height="400px" width="600px">
+</p>
+
 
 
 
