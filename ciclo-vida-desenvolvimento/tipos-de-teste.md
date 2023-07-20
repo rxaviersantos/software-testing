@@ -118,6 +118,13 @@ Exemplos de testes relacionados a mudanças:
 > 
 >  • No teste de aceite, todos os testes com falhas anteriores são executados novamente após a correção de um defeito encontrado no teste de aceite.
 
+Exemplos de tipos e níveis de teste
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/e7966aa9-f45f-41ec-aedf-3bfe18d38acf" "height="400px" width="600px">
+</p>
+
+
 Não é necessário, para todos os softwares, ter todos os tipos de testes representados em todos os níveis. No entanto, é importante executar os tipos de teste aplicáveis em cada nível, especialmente no nível mais antigo em que o tipo de teste ocorre.
 
 <p align="center">
