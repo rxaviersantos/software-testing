@@ -39,8 +39,25 @@ Para os sistemas da Internet das Coisas (IoT), o teste de manutenção pode ser 
   <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/30f10a6c-c17c-428c-b494-c51d325b8cda" "height="400px" width="600px">
 </p>
 
+### Análise de impacto para manutenção
 
+A análise de impacto avalia as alterações feitas para uma liberação de manutenção identificando os resultados esperados, os possíveis efeitos colaterais provocados e para identificar as áreas do sistema que serão afetadas. A análise de impacto também pode ajudar a identificar o impacto de uma mudança nos testes existentes. Os efeitos colaterais e áreas afetadas no sistema precisam ser testados por regressões, possivelmente após a atualização de quaisquer testes existentes afetados pela alteração.
 
+A análise de impacto pode ser feita antes de uma mudança ser realizada, com base nas consequências potenciais em outras áreas do sistema para determinar se a mudança deve ser feita.
+
+A análise de impacto pode ser difícil se:
+
+> • Especificações estão desatualizadas ou ausentes (p. ex., requisitos, histórias de usuários etc.);
+> 
+> • Casos de teste não estão documentados ou estão desatualizados;
+> 
+> • A rastreabilidade bidirecional entre os testes e a base de teste não foi mantida;
+> 
+> • O suporte das ferramentas é fraco ou inexistente;
+> 
+> • As pessoas envolvidas não possuem conhecimento do domínio ou sistema;
+> 
+> • Não foi dada atenção suficiente à manutenção do software durante o seu desenvolvimento.
 
 
 
