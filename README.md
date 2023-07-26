@@ -8,11 +8,12 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
-# Teste de Software
+# <img width="42" height="42" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Test-school-smashingstocks-flat-smashing-stocks-5.png" alt="external-Test-school-smashingstocks-flat-smashing-stocks-5"/> Teste de Software
 
 Repositório responsável pelos estudos relacionados ao fundamento de testes.
 
 ## 🚀 Recursos usuados 
+
 
 - ✅ **[****](https://www.typescriptlang.org/download)**
 - ✅ **[*****](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
@@ -23,37 +24,63 @@ Repositório responsável pelos estudos relacionados ao fundamento de testes.
 ## ✏️ Conteúdos
 
 <details><summary><b>Módulo 1:Fundamentos do Teste</b></summary>
-
-**[Module 01 - O que é teste](./02-module/README.md)**
   
-  O teste de software é a atividade que busca a qualidade do software, identificar o defeito, reduzir o risco de falha de doftware e operação garantindo a sua qualidade e confiabilidade 
-  
-
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  -
+  > -  *O que é teste*
+  > -  *Porque o teste é necessário*
+  > -  *Sete princípios de teste*
+  > -  *Processo de teste*
+  > - *Psicologia do teste*
 </details>
 
 <details><summary><b>Capitulo 2: Teste durante o ciclo de vida de desenvolvimento de software</b></summary>
+
+  > -  *Modelos de ciclo de vida de desenvolvimento de software*
+  > -  *Níveis de Teste*
+  > -  *Tipos de Teste*
+  > -  *Teste de manutenção*
 </details>
 
 <details><summary><b>Capitulo 3: Teste estático</b></summary>
+
+  > -  *Noções básicas sobre testes estáticos*
+  > -  *Processo de revisão*
 </details>
 
 <details><summary><b>Capitulo 4: Tácnicas de teste</b></summary>
+
+  > -  *Categorias de técnicas de teste*
+  > -  *Teste Caixa Preta*
+  > -  *Teste Caixa Branca*
+  > -  *Teste Baseado em experiência*
 </details>
 
 <details><summary><b>Capitulo 5: Gerenciamento de teste</b></summary>
+  
+  > -  *Teste independente*
+  > -  *Planejamento e estimativa de testes*
+  > -  *Monitoramento e controle de teste*
+  > -  *Gerenciamento de configurações*
+  > -  *Riscos e testes*
+  > -  *Gerenciamento de defeitos*
 </details>
 
-<details><summary><b>Capitulo 6: DDD: Ferramenta de suporte ao teste</b></summary>
+<details><summary><b>Capitulo 6: Ferramenta de suporte ao teste</b></summary>
+
+  > -  *Consideração sobre ferramentas de teste*
+  > -  *Usoo eficaz de ferramentas*
 </details>
 
-<details><summary><b>Capitulo 7: </b></summary>
-</details>
+
+-------
+<p align="center">
+ Olá, sinta-se à vontade para mostrar apoio e dar a este repositório<img src="https://img.icons8.com/fluency/20/null/star.png"/>estrela! Significa muito, obrigado :) 
+</p>
+
+
+
+
+
+
+<!----
+**[Module 01 - Fundamentos do Teste](./02-module/README.md)**
+
