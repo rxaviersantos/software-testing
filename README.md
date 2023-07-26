@@ -10,16 +10,15 @@
 
 # <img width="42" height="42" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Test-school-smashingstocks-flat-smashing-stocks-5.png" alt="external-Test-school-smashingstocks-flat-smashing-stocks-5"/> Teste de Software
 
-Repositório responsável pelos estudos relacionados ao fundamento de testes.
+Repositório destinado aos estudos sobre fundamentos de teste de software.
 
 ## 🚀 Recursos usuados 
 
 
-- ✅ **[****](https://www.typescriptlang.org/download)**
-- ✅ **[*****](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
-- ✅ **[*****](https://nodejs.org/en/)**
-- ✅ **[******](https://www.getpostman.com/)**
-- ✅ **[*******](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Certified Tester Syllabus - CTFL 3.1.1](https://drive.google.com/file/d/1rVl22cqv9DHg2X5WgO39yiLIXswyh_Fc/view?usp=sharing)**
+- ✅ **[Software Testing Tutorial](https://www.guru99.com/software-testing.html)**
+- ✅ **[Software Testing](https://acervolima.com/category/software-testing/)**
+
 
 ## ✏️ Conteúdos
 
