@@ -45,6 +45,13 @@ uma estrutura formal (normalmente código ou modelos) para a qual existe uma fer
 análise estática apropriada. A análise estática pode até ser aplicada com ferramentas que avaliam
 produtos de trabalho escritos em linguagem natural, como requisitos. 
 
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/82e97c5f-4249-4854-885a-a25ce2aff2ae" "height="300px" width="500px">
+</p>
+
+
+
+
 ### Benefícios do teste estático
 
 As técnicas de testes estáticos fornecem uma variedade de benefícios. Quando aplicado no início do
@@ -70,6 +77,10 @@ código mais sustentável);
 etapas finais do ciclo de vida ou após a entrega em operação;
 >
 > • Melhorar a comunicação entre os membros da equipe durante a participação nas revisões.
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/34da6562-feb8-4627-87fc-da2e0930a4fc" "height="300px" width="500px">
+</p>
 
 ### Diferenças entre teste estático e dinâmico
 
@@ -106,6 +117,11 @@ testes para um critério de aceite).
 
 
 Além disso, a maioria dos tipos de defeitos de manutenção só pode ser encontrada por testes estáticos (p. ex., modularização inadequada, reusabilidade ruim de componentes, código que é difícil de analisar e modificar sem introduzir novos defeitos).
+
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/24a4c175-15d3-4fd7-9807-aea9ccdda680" "height="300px" width="500px">
+</p>
+
 
 
 
