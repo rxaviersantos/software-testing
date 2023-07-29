@@ -68,3 +68,51 @@ Revisão individual (ou seja, preparação individual)
 Os resultados de uma revisão de produto de trabalho variam, dependendo do tipo de revisão e da formalidade.
 
 ### Funções e responsabilidades em uma revisão formal
+
+Uma revisão formal típica incluirá as funções a seguir: 
+
+Autor
+
+> * Criar o produto de trabalho sob revisão;
+> 
+> * Corrigir os defeitos no produto de trabalho sob revisão (se necessário).
+
+Gestor
+
+> * Responsável pelo planejamento da revisão;
+> * Decidir sobre a execução das revisões;
+> * Atribuir pessoal, orçamento e tempo;
+> * Monitorar a rentabilidade contínua.
+
+Facilitador (geralmente chamado de moderador)
+
+> * Garantir a execução eficaz das reuniões de revisão (quando realizada);
+>   
+> * Mediar, se necessário, entre os vários pontos de vista;
+>   
+> * É frequentemente a pessoa sobre quem o sucesso da revisão depende.
+
+Líder de revisão
+
+> * Assumir a responsabilidade geral pela revisão;
+>   
+> * Decidir quem será envolvido e organizar quando e onde acontecerá a revisão. 
+
+Revisor
+
+> * Podem ser especialistas no tema, pessoas trabalhando no projeto, stakeholders do produto de trabalho ou indivíduos com formação técnica ou profissional específica;
+>   
+> * Identificar possíveis defeitos no produto de trabalho sob revisão;
+>   
+> * Pode representar diferentes perspectivas (p. ex., testador, programador, usuário, operador, analista de negócios, especialista em usabilidade etc.).
+
+Redator (ou registrador)
+
+> * Coletar possíveis defeitos encontrados durante a atividade de revisão individual;
+>   
+> * Registrar novos defeitos em potencial, pontos em aberto e decisões da reunião de revisão (quando realizada).
+
+Em alguns tipos de revisão, uma pessoa pode desempenhar mais de uma função e as ações associadas a cada função também podem variar com base no tipo de revisão. Além disso, com o advento de ferramentas para apoiar o processo de revisão, especialmente o registro de defeitos, os pontos em aberto e decisões, muitas vezes não há necessidade de um redator.
+
+
+
