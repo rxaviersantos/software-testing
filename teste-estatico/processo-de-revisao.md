@@ -114,5 +114,60 @@ Redator (ou registrador)
 
 Em alguns tipos de revisão, uma pessoa pode desempenhar mais de uma função e as ações associadas a cada função também podem variar com base no tipo de revisão. Além disso, com o advento de ferramentas para apoiar o processo de revisão, especialmente o registro de defeitos, os pontos em aberto e decisões, muitas vezes não há necessidade de um redator.
 
+### Tipos de revisão
+
+Embora as revisões possam ser usadas para vários propósitos, um dos principais objetivos é descobrir defeitos. Todos os tipos de revisão podem auxiliar na detecção de defeitos, e o tipo de revisão selecionado deve ser baseado nas necessidades do projeto, recursos disponíveis, tipo de produto e riscos, domínio do negócio e cultura da empresa, entre outros critérios de seleção.
+Um único produto de trabalho pode ser objeto de mais de um tipo de revisão. Se mais de um tipo de revisão for usado, o pedido pode variar.
+Os tipos de defeitos encontrados em uma revisão variam, dependendo especialmente do produto de trabalho que está sendo revisado. As revisões podem ser classificadas de acordo com vários atributos. A seguir, lista dos quatro tipos mais comuns de revisões e seus atributos associados.
+
+Revisão informal
+
+> • O objetivo principal é detectar defeitos potenciais;
+> 
+> • Outros objetivos seriam gerar novas ideias ou soluções, resolvendo rapidamente pequenos problemas;
+> 
+> • Não baseado em um processo formal (documentado);
+> 
+> • Não pode envolver uma reunião de revisão;
+> 
+> • Pode ser realizado por um colega do autor (verificação de parceiro) ou por mais pessoas;
+> 
+> • Os resultados podem ser documentados;
+> 
+> • Varia em utilidade dependendo dos revisores;
+> 
+> • O uso de checklists é opcional;
+> 
+> • Muito comumente usados no desenvolvimento ágil
+
+Acompanhamento (walkthrough)
+
+> • Os principais objetivos são encontrar defeitos, melhorar o produto de software, considerar implementações alternativas, avaliar a conformidade com padrões e especificações;
+> • Objetivos adicionais seriam a troca de ideias sobre técnicas ou variações de estilo, treinamento de participantes, obtenção de consenso;
+> 
+> • A preparação individual antes da reunião de revisão é opcional;
+> 
+> • A reunião de revisão é normalmente liderada pelo autor do produto de trabalho;
+> 
+> • O redator é obrigatório;
+> 
+> • O uso de checklists é opcional;
+> 
+> • Pode assumir a forma de cenários, teste prático (dry run) ou simulações;
+> 
+> • Possíveis logs de defeitos e relatórios de revisão podem ser produzidos;
+> 
+> • Pode variar na prática de bastante informal para muito formal.
+
+
+
+
+
+
+
+
+
+
+
 
 
