@@ -159,6 +159,126 @@ Acompanhamento (walkthrough)
 > 
 > • Pode variar na prática de bastante informal para muito formal.
 
+Revisão técnica
+
+> • Os principais objetivos são a obtenção de consenso e a detecção de defeitos potenciais.
+> 
+> • Outros objetivos possíveis são: avaliar a qualidade e criar confiança no produto de trabalho, gerando novas ideias, motivando e capacitando os autores a melhorar os produtos de trabalho futuros, considerando implementações alternativas.
+>
+> Os revisores devem ser pares técnicos do autor e especialistas técnicos nas mesmas disciplinas ou em outras disciplinas.
+> 
+> • É necessária a preparação individual antes da reunião.
+> 
+> • A reunião de revisão é opcional, preferencialmente conduzida por um facilitador treinado (normalmente que não seja o autor).
+> 
+> • O redator é obrigatório e preferencialmente que não seja o autor.
+> 
+> • O uso de checklists é opcional.
+> 
+> • São produzidos registros de defeitos potenciais e o relatório de revisão
+
+Inspeção
+
+> Os principais objetivos são detectar os defeitos potenciais e avaliar a qualidade e criar confiança no produto de trabalho, evitando futuros defeitos semelhantes por meio do aprendizado do autor e da análise da causa-raiz.
+> 
+> • Outros possíveis objetivos são: motivar e capacitar os autores a melhorar os futuros produtos de trabalho e o processo de desenvolvimento de software, alcançando consenso.
+> 
+> • Segue um processo definido com saídas documentadas formais, com base em regras e checklists.
+> 
+> • Utiliza funções claramente definidas, como aquelas especificadas no capítulo 3.2.2, que são obrigatórias, e podem incluir um leitor dedicado (que lê o produto de trabalho em voz alta durante a reunião de revisão).
+> 
+> • É necessária a preparação individual antes da reunião.
+> 
+> • Os revisores são pares do autor ou especialistas em outras disciplinas relevantes para o produto de trabalho.
+> 
+> • São usados critérios de entrada e saída especificados.
+> 
+> • O redator é obrigatório.
+> 
+> • A reunião de revisão é liderada por um facilitador treinado (não pelo autor).
+> 
+> • O autor não pode atuar como líder de revisão, leitor ou redator.
+> 
+> • São produzidos registros de defeitos potenciais e o relatório de revisão.
+> 
+> • As métricas são coletadas e usadas para melhorar todo o processo de desenvolvimento de software, incluindo o processo de inspeção.
+
+Aplicando técnicas de revisão
+
+Há uma série de técnicas de revisão que podem ser aplicadas durante a atividade de revisão individual para descobrir defeitos. Essas técnicas podem ser usadas nos tipos de revisão descritos acima. A eficácia das técnicas pode variar dependendo do tipo da revisão utilizada. Abaixo são listados exemplos de diferentes técnicas de revisão individuais para vários tipos de revisão.
+
+Revisão ad hoc
+
+Em uma revisão ad hoc, os revisores recebem pouca ou nenhuma orientação sobre como essa tarefa deve ser executada. Os revisores geralmente leem o produto de trabalho sequencialmente, identificando e documentando os problemas à medida que os encontram. A revisão ad hoc é uma técnica comumente usada que requer pouca preparação. Essa técnica é altamente dependente das habilidades do revisor e pode levar a muitos problemas relatados em duplicidade por revisores diferentes.
+
+Revisão baseada em checklist
+
+Uma revisão baseada em checklist é uma técnica sistemática, na qual os revisores detectam os problemas com base em checklists que são distribuídos no início da revisão (p. ex., pelo facilitador). Um checklist de revisão consiste em um conjunto de perguntas baseadas em possíveis defeitos, que podem ser derivados da experiência. Os checklists devem ser específicos para o tipo de produto de trabalho sob teste e devem ser mantidos regularmente para cobrir os tipos de problemas perdidos nas revisões anteriores. A principal vantagem da técnica baseada em checklist é uma cobertura sistemática dos típicos tipos de defeitos. Deve-se tomar cuidado para não seguir simplesmente o checklist na revisão individual, mas também para procurar defeitos fora do checklist.
+
+Revisão baseada em cenários
+
+Em uma revisão baseada em cenário, os revisores recebem orientações estruturadas sobre como ler o produto de trabalho. Uma abordagem baseada no cenário dá suporte aos revisores na execução de "sequências" no produto de trabalho com base no uso esperado do produto de trabalho (se o produto de trabalho for documentado em um formato adequado, como casos de uso). Esses cenários fornecem aos revisores melhores diretrizes sobre como identificar tipos específicos de defeitos do que simples entradas no checklist. Assim como nas revisões baseadas em checklist, para não perder outros tipos de defeitos (p. ex., ausência de recursos), os revisores não devem ser restritos aos cenários documentados.
+
+Revisão baseada na perspectiva
+
+Na revisão baseada na perspectiva, semelhante a uma revisão baseada em papéis, os revisores assumem os pontos de vista de diferentes stakeholders na revisão individual. Os pontos de vista comuns dos stakeholders incluem o usuário final, marketing, designer, testador ou operador. Usar esses diferentes pontos de vista leva a uma maior profundidade na revisão individual, com menos duplicidade de problemas entre os revisores.
+
+Além disso, esse modelo também exige que os revisores tentem usar o produto de trabalho sob revisão para gerar o produto que eles obteriam. Por exemplo, um testador tentaria gerar testes de aceite de rascunho ao executar uma revisão baseada na perspectiva em uma especificação de requisitos para ver se todas as informações necessárias foram incluídas. Além disso, nesse modelo, espera-se que os checklists sejam usados.
+
+Estudos empíricos mostraram que essa revisão é a técnica mais eficaz para revisar os requisitos e os produtos de trabalho técnico. Um fator-chave para o sucesso é incluir e ponderar adequadamente os diferentes pontos de vista dos stakeholders, baseando-se nos riscos. 
+
+Revisão baseada em papéis
+
+Uma revisão baseada em papéis é uma técnica na qual os revisores avaliam o produto de trabalho na perspectiva dos papéis individuais dos stakeholders. Os papéis típicos incluem tipos específicos de usuário final (experiente, inexperiente, sênior, jovem etc.) e papéis específicos na organização (administrador do usuário, administrador do sistema, testador de performance etc.).
+
+
+### Fatores de sucesso para revisões
+
+Para ter uma revisão bem-sucedida, devem ser considerados o tipo e as técnicas apropriadas de revisão. Além disso, há vários outros fatores que afetarão o resultado.
+
+Fatores organizacionais de sucesso para revisões incluem:
+
+> • Cada revisão tem objetivos claros, definidos durante o seu planejamento e usados como critérios mensuráveis de saída.
+> 
+> • São aplicados tipos de revisão que são adequados para alcançar os objetivos e são apropriados ao tipo e nível de produtos de trabalho de software e participantes.
+> 
+> • Quaisquer técnicas usadas de revisão, como baseada em checklist ou baseada em papéis, são adequadas para a identificação efetiva de defeitos no produto de trabalho a ser revisado.
+> 
+> • Todos os checklists utilizados abordam os principais riscos e deverão estar atualizados.
+> 
+> • Documentos grandes são escritos e revisados em pequenos pedaços, para que o controle de qualidade seja exercido através do fornecimento de feedback antecipado e frequente aos autores sobre os defeitos.
+> 
+> • Os participantes devem ter tempo suficiente para se preparar.
+> 
+> • As revisões são agendadas com aviso adequado.
+> 
+> • A gerência apóia o processo de revisão (p. ex., incorporando tempo adequado para atividades de revisão nos cronogramas do projeto).
+
+Os fatores de sucesso relacionados às pessoas para revisões incluem:
+
+> • As pessoas certas estão envolvidas para atender aos objetivos de revisão, por exemplo, pessoas com diferentes conjuntos de habilidades ou perspectivas, que podem usar o documento como uma entrada de trabalho.
+> 
+> • Os testadores são vistos como revisores valiosos que contribuem para a revisão e aprendem sobre o produto de trabalho, o que permite que eles preparem testes mais eficazes e preparem esses testes antes.
+> 
+> • Os participantes dedicam tempo e atenção adequados aos detalhes.
+> 
+> • As revisões são realizadas em pequenos trechos, para que os revisores não percam a concentração durante a revisão individual ou na reunião de revisão (quando realizada).
+> 
+> • Os defeitos encontrados são reconhecidos, apreciados e manipulados objetivamente.
+> 
+> • A reunião é bem administrada, para que os participantes considerem um uso valioso do seu tempo.
+> 
+> • A revisão é conduzida em uma atmosfera de confiança; o resultado não será usado para a avaliação dos participantes.
+>
+> • Os participantes evitam linguagem corporal e comportamentos que possam indicar tédio, exasperação ou hostilidade a outros participantes.
+> 
+> • O treinamento adequado é fornecido, especialmente para os tipos de revisão mais formais, como as inspeções.
+> 
+> • Uma cultura de aprendizado e melhoria de processos é promovida.
+
+
+
+
 
 
 
