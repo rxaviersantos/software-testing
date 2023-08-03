@@ -276,7 +276,9 @@ Os fatores de sucesso relacionados às pessoas para revisões incluem:
 > 
 > • Uma cultura de aprendizado e melhoria de processos é promovida.
 
-
+<p align="center">
+  <img alt="nivel de teste" src="https://github.com/rxaviersantos/software-testing/assets/85380530/fed63caf-4582-4c85-b6c2-d0a5b7d8f299" "height="400px" width="500px">
+</p>
 
 
 
