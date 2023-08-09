@@ -20,3 +20,25 @@ equivalência para valores válidos e inválidos.
 >
 
 Para obter uma cobertura de 100% com essa técnica, os casos de teste devem cobrir todas as partições identificadas (incluindo partições inválidas) usando no mínimo um valor de cada partição. A cobertura é medida como o número de partições de equivalência testadas por pelo menos um valor, dividido pelo número total de partições de equivalência identificadas, normalmente expresso como uma porcentagem. O particionamento de equivalência é aplicável em todos os níveis de teste.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+# Exemplo de aplicações das diretrizes 
+
+A) Se uma condição de entrada especifica uma faixa de valores, uma classe de equivalência válida e duas inválidas são definidas.
+
+> * Entrada: Campo idade deve aceitar valores de 1 a 99 anos.
+>   - Faixa de valor: 1 a 99
+>   - Classe válida: Números de 1 a 99
+>   - Classe inválida: Números menores que 1
+>   - Classe inválida: Números maiores que 99
+
+
+
+
+
+
+
+
+
+
+
+
