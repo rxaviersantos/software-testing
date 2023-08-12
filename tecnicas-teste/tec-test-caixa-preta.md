@@ -23,32 +23,15 @@ Para obter uma cobertura de 100% com essa técnica, os casos de teste devem cobr
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 ### Exemplo de aplicações das diretrizes 
 
-A) Se uma condição de entrada especifica uma faixa de valores, uma classe de equivalência válida e duas inválidas são definidas.
-
-> * Entrada: Campo idade deve aceitar valores de 1 a 99 anos.
->   - Faixa de valor: 1 a 99
->   - Classe válida: Números de 1 a 99
->   - Classe inválida: Números menores que 1
->   - Classe inválida: Números maiores que 99
-
-
-
-------------------  | ------------------ | ------------------ |
-:--------- | :------: | -------: 
-
-                     1   	          99
+<p align="">
+  <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/89baf17f-2874-4bf9-af0d-9580ed589f68" " height="400px" width="620px"> </p>
 
 -------
-### Participação de equivalência 
+### Partição de equivalência 
 
-SE *idade >= 18* E *idade <= 65* ENTÃO...
-```
-    -5 0 17   |           18 23 30 43 52 65            |       66 69 120 
-    ------    |                ------                  |        ------ 
-Valores fora  |       Valores dentro do                |    Valores fora do intervalo
-do intervalo  |       intervalo aceitável              |                 
-
-
+<p align="">
+  <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/566a1d68-8268-4bf6-9a9a-6f4bc0ba6cd6" " height="400px" width="620px"> </p>
+  
 
 
 
