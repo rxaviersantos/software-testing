@@ -32,6 +32,12 @@ Para obter uma cobertura de 100% com essa técnica, os casos de teste devem cobr
 <p align="">
   <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/566a1d68-8268-4bf6-9a9a-6f4bc0ba6cd6" " height="400px" width="620px"> </p>
   
+### Exercício
+
+<p align="">
+  <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/6788c167-44cd-41f9-9e85-e77fa0de17d7" " height="400px" width="620px"> </p>
+
+
 
 
 
