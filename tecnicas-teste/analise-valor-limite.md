@@ -24,6 +24,8 @@ A análise de valor limite pode ser aplicada em todos os níveis de teste. Essa 
 <p align="">
   <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/cdc949ee-502a-4729-83dc-0a8c9cb46534" " height="400px" width="620px"> </p>
 
-  
+<p align="">
+  <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/152edcac-869e-444f-be4e-4941aba3b855" " height="400px" width="620px"> </p>
 
+ 
 
