@@ -9,18 +9,18 @@ corresponde a uma regra de decisão que define uma combinação exclusiva de con
 
 A notação comum nas tabelas de decisão é a seguinte:
 
-• “S”: significa que a condição seja verdadeira (também pode ser mostrada como “V” ou “1”)
-
-• “N”: significa que a condição seja falsa (também pode ser mostrada como “F” ou “0”)
-
-• “-“: significa que o valor da condição não importa (também pode ser mostrado como “N/A”)
+    • “S”: significa que a condição seja verdadeira (também pode ser mostrada como “V” ou “1”)
+    
+    • “N”: significa que a condição seja falsa (também pode ser mostrada como “F” ou “0”)
+    
+    • “-“: significa que o valor da condição não importa (também pode ser mostrado como “N/A”)
 
 Para ações:
 
 
-• “X” significa que a ação deve ocorrer (também pode ser mostrada como “S” ou “V” ou “1”)
-
-• Em branco significa que a ação não deve ocorrer (também pode ser mostrada como “-“ ou “N” ou “F” ou “0”)
+    • “X” significa que a ação deve ocorrer (também pode ser mostrada como “S” ou “V” ou “1”)
+    
+    • Em branco significa que a ação não deve ocorrer (também pode ser mostrada como “-“ ou “N” ou “F” ou “0”)
 
 Uma tabela de decisão completa tem colunas suficientes para abranger todas as combinações de
 condições. A tabela pode ser reduzida excluindo-se as colunas contendo combinações impossíveis, colunas contendo possíveis combinações de condições, mas inviáveis, e colunas que testam as combinações de condições que não afetam o resultado. Para obter mais informações sobre como recolher as tabelas de decisão. 
