@@ -22,10 +22,33 @@ Para ações:
     
     • Em branco significa que a ação não deve ocorrer (também pode ser mostrada como “-“ ou “N” ou “F” ou “0”)
 
-Uma tabela de decisão completa tem colunas suficientes para abranger todas as combinações de
-condições. A tabela pode ser reduzida excluindo-se as colunas contendo combinações impossíveis, colunas contendo possíveis combinações de condições, mas inviáveis, e colunas que testam as combinações de condições que não afetam o resultado. Para obter mais informações sobre como recolher as tabelas de decisão. 
+Uma tabela de decisão completa tem colunas suficientes para abranger todas as combinações de condições. A tabela pode ser reduzida excluindo-se as colunas contendo combinações impossíveis, colunas contendo possíveis combinações de condições, mas inviáveis, e colunas que testam as combinações de condições que não afetam o resultado.  
 
-O padrão comumente utilizado para a cobertura mínima para o teste de tabela de decisão é ter pelo
-menos um caso de teste por regra de decisão na tabela. Isso normalmente envolve cobrir todas as combinações de condições. A cobertura é medida como o número de regras de decisão testadas por pelo menos um caso de teste, dividido pelo número total de regras de decisão, normalmente expressa como uma porcentagem.
+O padrão comumente utilizado para a cobertura mínima para o teste de tabela de decisão é ter pelo menos um caso de teste por regra de decisão na tabela. Isso normalmente envolve cobrir todas as combinações de condições. A cobertura é medida como o número de regras de decisão testadas por pelo menos um caso de teste, dividido pelo número total de regras de decisão, normalmente expressa como uma porcentagem.
 
 O poder do teste por tabela de decisão é que ela ajuda a identificar todas as combinações importantes de condições, algumas das quais poderiam ser negligenciadas. Também ajuda a encontrar quaisquer lacunas nos requisitos. Pode ser aplicada a todas as situações em que o comportamento do software depende de uma combinação de condições, em qualquer nível de teste.
+
+Uma tabela de decisão é composta de:
+```
+- Uma área de condições, onde são relacionadas as condições que devem ser verificadas para que seja executado um conjunto de ações;
+- Uma área de ações, que exibe o conjunto de ações que deve ser executado caso um determinado conjunto de condições ocorra;
+- Regras de decisão, representadas pelas colunas, que apresentam a combinação das condições com as ações a serem executadas.
+```
+<p align="">
+  <img alt="" src="https://github.com/rxaviersantos/software-testing/assets/85380530/16998cfb-2ae4-453e-b43a-51fb6476b3e6" " height="280px" width="480px"> </p>
+
+ Na tabela acima, definimos que para ser considerado exame especial, o avaliado teria que ter mais de 40 anos ou cargo de chefia com mais de 2 anos no cargo.
+
+Para que seja definida a quantidade de regras da tabela, basta que multipliquemos a quantidade de respostas possíveis de cada condição.
+
+```
+Exemplo:
+
+Condição 1 sim/não:     = 2
+
+Condição 2 sim/não:     = 2
+
+Condição 3 sim/não:     = 2
+
+Quantidade de Regras:   = 2 x 2 x 2 = 8
+```
