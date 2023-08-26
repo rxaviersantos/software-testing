@@ -18,7 +18,7 @@ Repositório destinado aos estudos sobre fundamentos de teste de software.
 - ✅ **[Certified Tester Syllabus - CTFL 3.1.1](https://drive.google.com/file/d/1rVl22cqv9DHg2X5WgO39yiLIXswyh_Fc/view?usp=sharing)**
 - ✅ **[Software Testing Tutorial](https://www.guru99.com/software-testing.html)**
 - ✅ **[Software Testing](https://acervolima.com/category/software-testing/)**
-
+- ✅ **[Wikipédia](https://pt.wikipedia.org/wiki/Tabela_de_decis%C3%A3o)**
 
 ## ✏️ Conteúdos
 
