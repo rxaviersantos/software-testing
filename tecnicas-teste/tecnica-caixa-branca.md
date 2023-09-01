@@ -14,3 +14,10 @@ Esta técnica testa as decisões existentes no código e o código executado com
 A cobertura é medida como o número de resultados de decisão executados pelos testes dividido
 pelo número total de resultados de decisão no objeto de teste, normalmente expresso como uma
 porcentagem.
+
+### O valor da instrução e teste de decisão
+
+Quando a cobertura de 100% das instruções é alcançada, garante-se que todas as instruções executáveis no código tenham sido testadas pelo menos uma vez, mas não garante que toda a lógica de decisão tenha sido testada. Das duas técnicas caixa-branca discutidas neste syllabus, o teste de instrução pode fornecer menos cobertura do que o teste de decisão. Quando uma cobertura de decisão de 100% é alcançada, representa-se que todos os resultados de decisão foram testados, o que inclui testar os resultados verdadeiro e falso, mesmo quando não há
+uma instrução falsa explícita (p. ex., no caso de uma instrução IF sem outra no código). A cobertura de instrução ajuda a encontrar defeitos no código que não foi exercido por outros testes. A cobertura de decisão ajuda a encontrar defeitos no código, em que outros testes não obtiveram resultados verdadeiros ou falsos.
+
+Atingir 100% de cobertura de decisão garante 100% de cobertura de instrução (mas não vice-versa).
