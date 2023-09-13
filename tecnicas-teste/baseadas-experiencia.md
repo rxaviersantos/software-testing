@@ -25,3 +25,9 @@ de mais testes.
 O teste exploratório é mais útil quando há poucas ou inadequadas especificações ou pressão de tempo significativa nos testes. O teste exploratório também é útil para complementar outras técnicas de teste mais formais.
 
 O teste exploratório está fortemente associado a estratégias de teste reativo (ver capítulo 5.2.2). O teste exploratório pode incorporar o uso de outras técnicas de caixa-preta, caixa-branca e experiência.
+
+### Teste baseado em checklist
+
+Em testes baseados em checklist, os testadores modelam, implementam e executam testes para cobrir as condições de teste encontradas em uma lista. Como parte da análise, os testadores criam uma lista ou expandem uma existente, mas os testadores também podem usar um checklist existente sem modificá-lo. Esses checklists podem ser construídos com base na experiência, conhecimento sobre o que é importante para o usuário ou uma compreensão de por que e como o software falha.
+
+Os checklists podem ser criados para dar suporte a vários tipos de teste, incluindo testes funcionais e não-funcionais. Na ausência de casos de teste detalhados, os testes baseados em checklist podem fornecer diretrizes e consistência. Como essas listas são de alto nível, é provável que ocorra alguma variabilidade nos testes reais, resultando em uma cobertura potencialmente maior, mas com menos repetibilidade.
