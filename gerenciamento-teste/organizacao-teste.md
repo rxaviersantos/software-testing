@@ -77,9 +77,35 @@ As tarefas típicas do gerente de teste podem incluir:
 > • Desenvolver as habilidades e carreiras dos testadores (p. ex., através de planos de treinamento, avaliações de performance, treinamento etc.).
 > 
 
+A maneira como a função de gerente de teste é executada varia de acordo com o ciclo de vida de desenvolvimento de software. Por exemplo, no desenvolvimento ágil, algumas das tarefas mencionadas acima são tratadas pela equipe do Ágil, especialmente aquelas relacionadas ao teste diário feito dentro da equipe, geralmente por um testador que trabalha na equipe. Algumas das tarefas que abrangem várias equipes ou toda a organização, ou que têm a ver com gerenciamento de pessoal, podem ser executadas por gerentes de teste fora da equipe de desenvolvimento, que às vezes são chamados de treinadores de teste. Veja Black (2009) para mais informações sobre como gerenciar o processo de teste.
 
+As tarefas típicas do testador podem incluir:
 
+> • Revisar e contribuir para os planos de teste.
+> 
+> • Analisar, revisar e avaliar os requisitos, as histórias de usuários e os critérios de aceite, as especificações e modelos para testabilidade (ou seja, a base de teste).
+> 
+> • Identificar e documentar as condições de teste e capturar a rastreabilidade entre casos de teste, as condições de teste e a base de teste.
+> 
+> • Projetar, configurar e verificar o(s) ambiente(s) de teste, geralmente coordenando com a administração do sistema e gerenciamento da rede.
+> 
+> • Projetar e implementar casos de teste e procedimentos de teste.
+> 
+> • Preparar e adquirir os dados de teste.
+> 
+> • Criar o cronograma detalhado de execução dos testes.
+> 
+> • Executar os testes, avaliar os resultados e documentar os desvios dos resultados esperados.
+> 
+> • Usar ferramentas apropriadas para facilitar o processo de teste.
+> 
+> • Automatizar os testes conforme necessário (pode ser suportado por um desenvolvedor ou por um especialista em automação de testes).
+> 
+> • Avaliar as características não-funcionais, como eficiência de performance, confiabilidade, usabilidade, segurança, compatibilidade e portabilidade.
+> 
+> • Revisar os testes desenvolvidos por outros.
 
+As pessoas que trabalham em análise de teste, projeto de teste, tipos de teste específicos ou automação de teste podem ser especialistas nessas funções. Dependendo dos riscos relacionados ao produto e ao projeto, e o modelo de ciclo de vida de desenvolvimento de software selecionado, pessoas diferentes podem assumir o papel de testador em diferentes níveis de teste. Por exemplo, no nível de teste de componente e no nível de teste de integração de componente, o papel de um testador é geralmente executado por desenvolvedores. No nível de teste de aceite, o papel de um testador geralmente é feito por analistas de negócios, especialistas no assunto e usuários. No nível de teste do sistema e no nível de teste de integração do sistema, o papel de um testador é geralmente executado por uma equipe de teste independente. No nível de teste de aceite operacional, o papel de um testador geralmente é executado pelas equipes de administração de operações ou sistemas.
 
 
 
