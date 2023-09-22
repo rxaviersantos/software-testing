@@ -71,3 +71,8 @@ Os relatórios típicos de progresso de testes e relatórios de resumo de testes
 > • Riscos residuais;
 > 
 > • Produtos de teste reutilizáveis produzidos.
+
+O conteúdo de um relatório de teste irá variar dependendo do projeto, dos requisitos organizacionais e do ciclo de vida de desenvolvimento de software. Por exemplo, um projeto complexo com muitos stakeholders ou um projeto regulamentado pode exigir relatórios mais detalhados e rigorosos do que uma rápida atualização de software.
+
+Além de personalizar os relatórios de teste com base no contexto do projeto, os relatórios de teste devem ser personalizados com base no público do relatório. O tipo e a quantidade de informações que devem ser incluídas para uma audiência técnica ou uma equipe de teste podem ser diferentes daquelas que seriam incluídas em um relatório de resumo executivo. No primeiro caso, informações detalhadas sobre tipos e tendências de defeitos podem ser importantes. No último caso, um relatório de alto nível (p. ex., um resumo de status de defeitos por prioridade, orçamento, cronograma e condições de teste aprovados/reprovados/não testados) pode ser mais apropriado.
+
